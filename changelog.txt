@@ -1,4 +1,6 @@
-v1.1.1
+v1.2
+    - Trying everything
+v1.1.6
     - Fixing typo preventing full build prop write
     - Moving post fs file to properly utilize cache mode
 v1

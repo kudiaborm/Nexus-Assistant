@@ -1,7 +1,7 @@
 id=nexus-assistant
 name=Nexus Assistant
-version=v1.1.5
-versionCode=4
+version=v1.2.2
+versionCode=11
 author=kudiaborm
 description=This will enable the assitant on your Nexus making it appear to be a Pixel XL
 support=http://forum.xda-developers.com/apps/magisk/module-nexus-assistant-t3478316
