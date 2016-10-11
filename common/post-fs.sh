@@ -4,4 +4,4 @@
 # More info in the main Magisk thread
 
 setprop ro.opa.eligible_device true
-steprop ro.device.model Pixel XL
+setprop ro.device.model Pixel XL

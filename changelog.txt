@@ -1,2 +1,4 @@
 v1
     - Google Assistant functionality added
+v1.1.1
+    - Fixing typo preventing full build prop write
