@@ -1,9 +1,8 @@
-id=template
-name=Template Module
+id=nexus-assistant
+name=Nexus Assistant
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=kudiaborm
+description=This will enable the assitant on your Nexus making it appear to be a Pixel XL
 support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
 cacheModule=false
