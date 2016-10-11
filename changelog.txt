@@ -1,4 +1,5 @@
 v1.1.1
     - Fixing typo preventing full build prop write
+    - Moving post fs file to properly utilize cache mode
 v1
     - Google Assistant functionality added
