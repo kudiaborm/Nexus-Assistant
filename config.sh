@@ -40,10 +40,10 @@ MODID=nexus-assistant
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
-AUTOMOUNT=true
+AUTOMOUNT=false
 
 # Set to true if you need post-fs script (Only available in cache mods)
-POSTFS=false
+POSTFS=true
 
 # Set to true if you need post-fs-data script (Only available in non-cache mods)
 POSTFSDATA=false

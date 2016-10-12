@@ -1,5 +1,7 @@
+v1.3
+    - Disabling Auto Mount to enable setprop
 v1.2
-    - Trying everything
+    - Transitioning to build prop replacement
 v1.1.6
     - Fixing typo preventing full build prop write
     - Moving post fs file to properly utilize cache mode
